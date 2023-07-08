@@ -11,13 +11,13 @@
 <div class="flex gap-10">
 	<div class="space-y-2">
 		<h1 class="text-[32px] pl-3 pb-2">Key</h1>
-		<select bind:value={$fretboardKey} class={clsx('max-w-[100px]', selectStyles)}>
+		<select bind:value={$fretboardKey} class={clsx('max-w-[128px]', selectStyles)}>
 			{#each notes as note}
 				<option value={note}> {note} </option>
 			{/each}
 		</select>
 
-		<select bind:value={$fretboardKeyMajorMinor} class={clsx('max-w-[100px]', selectStyles)}>
+		<select bind:value={$fretboardKeyMajorMinor} class={clsx('max-w-[128px]', selectStyles)}>
 			<option value="major"> Major </option>
 			<option value="minor"> Minor </option>
 		</select>
