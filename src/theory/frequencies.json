@@ -1,0 +1,121 @@
+{
+	"C": [
+		{ "octave": 0, "frequency": 16.35 },
+		{ "octave": 1, "frequency": 32.7 },
+		{ "octave": 2, "frequency": 65.41 },
+		{ "octave": 3, "frequency": 130.81 },
+		{ "octave": 4, "frequency": 261.63 }
+	],
+	"C#": [
+		{ "octave": 0, "frequency": 17.32 },
+		{ "octave": 1, "frequency": 34.65 },
+		{ "octave": 2, "frequency": 69.3 },
+		{ "octave": 3, "frequency": 138.59 },
+		{ "octave": 4, "frequency": 277.18 }
+	],
+	"Db": [
+		{ "octave": 0, "frequency": 17.32 },
+		{ "octave": 1, "frequency": 34.65 },
+		{ "octave": 2, "frequency": 69.3 },
+		{ "octave": 3, "frequency": 138.59 },
+		{ "octave": 4, "frequency": 277.18 }
+	],
+	"D": [
+		{ "octave": 0, "frequency": 18.35 },
+		{ "octave": 1, "frequency": 36.71 },
+		{ "octave": 2, "frequency": 73.42 },
+		{ "octave": 3, "frequency": 146.83 },
+		{ "octave": 4, "frequency": 293.66 }
+	],
+	"D#": [
+		{ "octave": 0, "frequency": 19.45 },
+		{ "octave": 1, "frequency": 38.89 },
+		{ "octave": 2, "frequency": 77.78 },
+		{ "octave": 3, "frequency": 155.56 },
+		{ "octave": 4, "frequency": 311.13 }
+	],
+	"Eb": [
+		{ "octave": 0, "frequency": 19.45 },
+		{ "octave": 1, "frequency": 38.89 },
+		{ "octave": 2, "frequency": 77.78 },
+		{ "octave": 3, "frequency": 155.56 },
+		{ "octave": 4, "frequency": 311.13 }
+	],
+	"E": [
+		{ "octave": 0, "frequency": 20.6 },
+		{ "octave": 1, "frequency": 41.2 },
+		{ "octave": 2, "frequency": 82.41 },
+		{ "octave": 3, "frequency": 164.81 },
+		{ "octave": 4, "frequency": 329.63 }
+	],
+	"F": [
+		{ "octave": 0, "frequency": 21.83 },
+		{ "octave": 1, "frequency": 43.65 },
+		{ "octave": 2, "frequency": 87.31 },
+		{ "octave": 3, "frequency": 174.61 },
+		{ "octave": 4, "frequency": 349.23 }
+	],
+	"F#": [
+		{ "octave": 0, "frequency": 23.12 },
+		{ "octave": 1, "frequency": 46.25 },
+		{ "octave": 2, "frequency": 92.5 },
+		{ "octave": 3, "frequency": 185.0 },
+		{ "octave": 4, "frequency": 369.99 }
+	],
+	"Gb": [
+		{ "octave": 0, "frequency": 23.12 },
+		{ "octave": 1, "frequency": 46.25 },
+		{ "octave": 2, "frequency": 92.5 },
+		{ "octave": 3, "frequency": 185.0 },
+		{ "octave": 4, "frequency": 369.99 }
+	],
+	"G": [
+		{ "octave": 0, "frequency": 24.5 },
+		{ "octave": 1, "frequency": 49.0 },
+		{ "octave": 2, "frequency": 98.0 },
+		{ "octave": 3, "frequency": 196.0 },
+		{ "octave": 4, "frequency": 392.0 }
+	],
+	"G#": [
+		{ "octave": 0, "frequency": 25.96 },
+		{ "octave": 1, "frequency": 51.91 },
+		{ "octave": 2, "frequency": 103.83 },
+		{ "octave": 3, "frequency": 207.65 },
+		{ "octave": 4, "frequency": 415.3 }
+	],
+	"Ab": [
+		{ "octave": 0, "frequency": 25.96 },
+		{ "octave": 1, "frequency": 51.91 },
+		{ "octave": 2, "frequency": 103.83 },
+		{ "octave": 3, "frequency": 207.65 },
+		{ "octave": 4, "frequency": 415.3 }
+	],
+	"A": [
+		{ "octave": 0, "frequency": 27.5 },
+		{ "octave": 1, "frequency": 55.0 },
+		{ "octave": 2, "frequency": 110.0 },
+		{ "octave": 3, "frequency": 220.0 },
+		{ "octave": 4, "frequency": 440.0 }
+	],
+	"A#": [
+		{ "octave": 0, "frequency": 29.14 },
+		{ "octave": 1, "frequency": 58.27 },
+		{ "octave": 2, "frequency": 116.54 },
+		{ "octave": 3, "frequency": 233.08 },
+		{ "octave": 4, "frequency": 466.16 }
+	],
+	"Bb": [
+		{ "octave": 0, "frequency": 29.14 },
+		{ "octave": 1, "frequency": 58.27 },
+		{ "octave": 2, "frequency": 116.54 },
+		{ "octave": 3, "frequency": 233.08 },
+		{ "octave": 4, "frequency": 466.16 }
+	],
+	"B": [
+		{ "octave": 0, "frequency": 30.87 },
+		{ "octave": 1, "frequency": 61.74 },
+		{ "octave": 2, "frequency": 123.47 },
+		{ "octave": 3, "frequency": 246.94 },
+		{ "octave": 4, "frequency": 493.88 }
+	]
+}
