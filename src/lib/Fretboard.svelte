@@ -1,6 +1,6 @@
 <script lang="ts">
 	import clsx from 'clsx';
-	import { fretboardFretCount, fretboardKey, fretboardScaleType } from '../stores/fretboard';
+	import { fretboardFretCount, fretboardKey, fretboardKeyMajorMinor } from '../stores/fretboard';
 	import {
 		COMMON_TUNINGS,
 		majorScale,
@@ -11,7 +11,7 @@
 
 	const tuning = COMMON_TUNINGS.standard.tuning;
 
-	$: scaleFunction = $fretboardScaleType === 'major' ? majorScale : minorScale;
+	$: scaleFunction = $fretboardKeyMajorMinor === 'major' ? majorScale : minorScale;
 	$: scaleNotes = scaleFunction($fretboardKey);
 </script>
 

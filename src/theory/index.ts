@@ -110,7 +110,7 @@ export function makeFretboardStringNotes(key: NoteName, amountOfSteps: number): 
  *
  ********************************************************/
 
-export type ScaleType = 'major' | 'minor';
+export type MajorMinor = 'major' | 'minor';
 
 // Major scale pattern: W-W-H-W-W-W-H
 export function majorScale(key: NoteName): NoteName[] {
